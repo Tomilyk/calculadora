@@ -12,4 +12,7 @@ public class Saludo {
     public String saludar(){
         return "nunca pares de aprender";
     }
+
+    public static class SortArray {
+    }
 }
